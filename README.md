@@ -3,6 +3,8 @@
 These [Geany](https://www.geany.org/) configuration files will add a syntax
 highlight for [SFZ Format](https://sfzformat.com) file editing.
 
+![Snapshot](./snapshot.png)
+
 ## Installation
 
 - Copy or add to existant `filetype_extensions.conf` in `$HOME/.config/geany`
