@@ -1,4 +1,4 @@
-# SFZ File Format Geany Extension
+# SFZ Format Filetype Syntax Highlighting for Geany
 
 These [Geany](https://www.geany.org/) configuration files will add a syntax
 highlight for [SFZ Format](https://sfzformat.com) file editing.
