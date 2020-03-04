@@ -13,8 +13,9 @@ highlight for [SFZ Format](https://sfzformat.com) file editing.
 ## Known Bugs
 
 - Opcodes using wildcards or numbers are not recognized
-	(e.g.: ***hints_\**** and ***\*_oncc#***)
+	(`egN_`, `lfoN_`, `hint_*`, `vN`, `varNN`)
 
-- Defined ***$variables*** are not highlighted
+- Defined `$variables` are not highlighted
 
-- ***‹group›*** header is highlighted as ***group*** opcode
+- `<group>` header is highlighted as `group` opcode
+
